@@ -1,5 +1,4 @@
 Libsub configuration and example code in linux :
-Install 
 Install libsub
 Install libusb-1.0-0-dev
 Instead of:
