@@ -19,3 +19,6 @@ https://www.beyondlogic.org/usbnutshell/usb6.shtml
 
 Gives a short intro into usb
 
+3. To compile a program, for example the lib_usb_example.c, 
+gcc lib_usb_example.c `pkg-config --libs --cflags libusb-1.0`
+
